@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-favico-napp-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/spFxFavicoNapp/SpFxFavicoNappApplicationCustomizer.js",
+          "manifest": "./src/extensions/spFxFavicoNapp/SpFxFavicoNappApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFxFavicoNappApplicationCustomizerStrings": "lib/extensions/spFxFavicoNapp/loc/{locale}.js"
+  }
+}

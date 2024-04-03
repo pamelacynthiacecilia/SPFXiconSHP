@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SpFxFavicoNapp"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="c8d1d9fa-015d-44dd-a318-463d558fde75"
+        Properties="{&quot;favicon&quot;:&quot;/icon/favicon.ico&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

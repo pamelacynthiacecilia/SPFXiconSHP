@@ -4,23 +4,23 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://havannacsp.sharepoint.com/sites/Ventas_CorporativasQA",
+      "pageUrl": "https://Dominio.sharepoint.com/sites/NombreDelSitio",
       "customActions": {
         "c8d1d9fa-015d-44dd-a318-463d558fde75": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "favicon": "https://havannacsp.sharepoint.com/sites/Ventas_CorporativasQA/icon/favicon.ico"
+            "favicon": "ruta al icon"
           }
         }
       }
     },
     "spFxFavicoNapp": {
-      "pageUrl": "https://havannacsp.sharepoint.com/sites/Ventas_CorporativasQA",
+      "pageUrl": "https://Dominiocsp.sharepoint.com/sites/NombreDelSitio",
       "customActions": {
         "c8d1d9fa-015d-44dd-a318-463d558fde75": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "favicon": "https://havannacsp.sharepoint.com/sites/Ventas_CorporativasQA/icon/favicon.ico"
+            "favicon": "https://Dominio.sharepoint.com/sites/NombreDelSitio/Carpeta/favicon.ico"
           }
         }
       }
